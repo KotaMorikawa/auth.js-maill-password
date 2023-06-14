@@ -29,6 +29,7 @@ npx prisma migrate dev
 npx prisma generate
 
 PrismaStudioでユーザー作成
+passwordはbcryptで作成
 npx prisma stuio
 ```
 
